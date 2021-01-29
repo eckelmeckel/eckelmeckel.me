@@ -78,6 +78,6 @@ user_groups:
 ---
 
 
-Michael Eckel is a cyber security researcher for Fraunhofer SIT. Previously, he was a security technologist at Huawei Technologies, mobile software developer at Boostix/GAL, and a web and software developer for a number of other companies. He holds a master's degree in Computer Science. Michael currently co-chairs the Trusted Computing Group's Network Equipment work group, working to secure vulnerable network equipment.
+Michael Eckel is a cyber security researcher for Fraunhofer SIT. Previously, he was a security technologist at Huawei Technologies, mobile software developer at Boostix/GAL, and a web and software developer for a number of other companies. He holds a master's degree in Computer Science. Michael currently [co-chairs](https://trustedcomputinggroup.org/chair/michael-eckel/) the [Trusted Computing Group's Network Equipment work group](https://trustedcomputinggroup.org/work-groups/network-equipment/), working to secure vulnerable network equipment.
 
 His research interests include cyber security, distributed systems, virtualization technologies, and Trusted Computing.
