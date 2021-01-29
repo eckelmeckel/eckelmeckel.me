@@ -31,7 +31,7 @@ education:
   - course: M.Sc. in Computer Science
     institution: Mittelhessen University of Applied Sciences
     year: 2014
-  - course: B.Sc in Computer Science
+  - course: B.Sc. in Computer Science
     institution: Mittelhessen University of Applied Sciences
     year: 2009
   - course: Pre-Diploma in Media Informatics
@@ -46,12 +46,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/eckelmeckel
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=hv0uFi0AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Michael-Eckel
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5138-1769
 - icon: github
   icon_pack: fab
   link: https://github.com/eckelmeckel
