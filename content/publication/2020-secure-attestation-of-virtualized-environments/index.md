@@ -1,0 +1,37 @@
+---
+title: Secure Attestation of Virtualized Environments
+date: '2020-09-01'
+draft: true
+publishDate: '2021-02-05T10:29:52.648462Z'
+authors:
+- Michael Eckel
+- Andreas Fuchs
+- Jürgen Repp
+- Markus Springer
+publication_types:
+- '1'
+abstract: Securing the integrity of virtualized environments like clouds is challenging
+  yet feasible. Operators have discovered the advantages of virtualization technology
+  in terms of flexibility, scalability, cost-effectiveness, and availability. Applications
+  range from network and embedded devices to big data centers and cloud computing.
+  Trusted Computing technology can be employed to protect the integrity of a system
+  by leveraging a Trusted Platform Module (TPM) and remote attestation. Existing research
+  on remote attestation of virtualized environments differs in scalability, resource
+  consumption, and provided security guarantees. While some approaches scale at large
+  and use the TPM efficiently, they are way more intrusive, requiring changes to hypervisor
+  and Virtual Machines (VMs). Others render entirely impractical with an increasing
+  number of VMs, caused by the TPM being the bottleneck. In this paper we analyze
+  existing work on remote attestation for virtualized environments and discuss benefits
+  as well as shortcomings. We identify an approach that provides adequate security
+  and is easy to implement but is prone to relay attacks. We improve that approach
+  by developing countermeasures, while maintaining existing security guarantees. Our
+  contribution requires only minimal changes to the hypervisor system, keeping existing
+  attestation protocols intact. We implement and evaluate on production-grade hardware,
+  and compare our improved attestation approach with the most sophisticated alternative
+  approach. With performance measurements and further evaluations we show that our
+  solution outperforms the other approach for a small number of VMs, as used in network
+  devices and embedded systems.
+featured: false
+publication: '*ICT Systems Security and Privacy Protection*'
+---
+
