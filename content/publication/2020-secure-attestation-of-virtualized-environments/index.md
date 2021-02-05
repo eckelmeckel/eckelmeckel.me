@@ -31,7 +31,7 @@ abstract: Securing the integrity of virtualized environments like clouds is chal
   approach. With performance measurements and further evaluations we show that our
   solution outperforms the other approach for a small number of VMs, as used in network
   devices and embedded systems.
-featured: false
+featured: true
 publication: '*ICT Systems Security and Privacy Protection*'
 ---
 
