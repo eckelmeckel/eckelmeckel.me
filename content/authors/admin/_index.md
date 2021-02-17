@@ -18,7 +18,7 @@ organizations:
   url: "https://sit.fraunhofer.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a cyber security researcher for Fraunhofer SIT. My research interests include cyber security, distributed systems, virtualization technologies, and Trusted Computing.
+bio: I am a cyber security researcher for Fraunhofer SIT. My research interests include cyber security, Trusted Computing, virtualization technologies, and distributed systems.
 
 interests:
 - Cyber Security
@@ -78,6 +78,10 @@ user_groups:
 ---
 
 
-Michael Eckel is a cyber security researcher for Fraunhofer SIT. Previously, he was a security technologist at Huawei Technologies, mobile software developer at Boostix/GAL, and a web and software developer for a number of other companies. He holds a master's degree in Computer Science. Michael currently [co-chairs](https://trustedcomputinggroup.org/chair/michael-eckel/) the [Trusted Computing Group's Network Equipment work group](https://trustedcomputinggroup.org/work-groups/network-equipment/), working to secure vulnerable network equipment.
+I am a cyber security researcher for Fraunhofer SIT.
+Previously, I was a security engineer at Huawei Technologies, mobile software developer at Boostix/GAL, and a web and software developer for a number of other companies.
+I hold a master's degree in Computer Science.
+Currently, I am [co-chairing](https://trustedcomputinggroup.org/chair/michael-eckel/) the [Trusted Computing Group's Network Equipment work group](https://trustedcomputinggroup.org/work-groups/network-equipment/), working to secure vulnerable network equipment.
 
-His research interests include cyber security, distributed systems, virtualization technologies, and Trusted Computing.
+My research interests include cyber security, Trusted Computing, virtualization technologies, and distributed systems.
+

@@ -21,31 +21,52 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Certificate: Cryptography I"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "2016-01-01"
   date_end = ""
-  description = ""
+  description = """
+  Coursera online course \"Cryptography I\" by Prof. Dan Boneh from the University of Stanford.
+  The course consists of a theoretical part and a practical part (programming).
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "TODO"
+  organization_url = "https://www.ihk-kassel.de/beratung-service/ausbildung-und-weiterbildung/ausbildung/ausbildung-abc/ausbildereignung/"
+  title = "Trainer Certification according to the German \"Ausbilder-Eignungsverordnung (AEVO)\""
+  url = ""
+  certificate_url = "https://www.ihk-kassel.de/beratung-service/ausbildung-und-weiterbildung/ausbildung/ausbildung-abc/ausbildereignung/"
+  date_start = "2008-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """
+  Vocational and occupational pedagogical aptitude includes the competence to independently plan, implement and control vocational training in the fields of action:
+
+  1. Checking training prerequisites and planning training,
+  2. Preparing training and assisting in the recruitment of trainees,
+  3. Carrying out training and
+  4. Completing training.
+  
+  — [Bundesministerium für Bildung und Forschung (BMBF)](https://www.bmbf.de/de/ausbildereignungsverordnung-aevo.html)
+"""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Cisco Systems"
+  organization_url = "https://www.cisco.com/"
+  title = "Cisco Certified Network Associate (CCNA)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"
+  date_start = "2003-07-01"
+  date_end = ""
+#  date_start = "2001-09-01"
+#  date_end = "2003-07-01"
+  description = """
+  Achieving CCNA certification is the first step in preparing for a career in IT technologies. To earn CCNA certification, you pass one exam that covers a broad range of fundamentals for IT careers, based on the latest networking technologies, software development skills, and job roles.
+
+CCNA gives you the foundation you need to take your career in any direction.
+
+— [Cisco Systems](https://www.cisco.com/)
+  """
 
 +++
+
