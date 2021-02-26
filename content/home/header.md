@@ -54,6 +54,6 @@ subtitle = ""
 +++
 
 
-# “The last thing one knows in constructing a work is what to put first.”
+## “The last thing one knows in constructing a work is what to put first.”
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Blaise Pascal
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Blaise Pascal
