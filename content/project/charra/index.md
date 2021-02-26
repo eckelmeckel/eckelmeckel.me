@@ -3,6 +3,7 @@
 
 title: "CHARRA"
 summary: "Challenge-Response based Remote Attestation with TPM 2.0"
+#authors: ["Michael Eckel (and  fellows)"]
 authors: ["Michael Eckel"]
 tags: []
 categories: []

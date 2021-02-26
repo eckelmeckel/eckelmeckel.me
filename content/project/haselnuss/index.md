@@ -4,7 +4,8 @@
 title: "HASELNUSS"
 summary: "Hardware-based Safety Platform for Railroad Control and Safety Technology"
 #summary: "Hardwarebasierte Sicherheitsplattform für Eisenbahn-Leit- und Sicherungstechnik"
-authors: []
+authors:
+  - Fraunhofer SIT
 tags: []
 categories: []
 date: 2020-09-30T23:59:59+01:00
