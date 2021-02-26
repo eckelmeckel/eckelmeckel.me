@@ -22,9 +22,9 @@ bio: I am a cyber security researcher for Fraunhofer SIT. My research interests 
 
 interests:
 - Cyber Security
-- Distributed Systems
-- Virtualization Technologies
 - Trusted Computing
+- Virtualization Technologies
+- Distributed Systems
 
 education:
   courses:
