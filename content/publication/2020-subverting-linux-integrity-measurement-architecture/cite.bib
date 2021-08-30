@@ -1,0 +1,21 @@
+@inproceedings{10.1145/3407023.3407058,
+abstract = {Integrity is a key protection objective in the context of system security. This holds for both hardware and software. Since hardware cannot be changed after its manufacturing process, the manufacturer must be trusted to build it properly. However, it is completely different with software. Users of a computer system are free to run arbitrary software on it and even modify BIOS/UEFI, bootloader, or Operating System (OS).
+Ensuring that only authentic software is loaded on a machine requires additional measures to be in place. Trusted Computing technology can be employed to protect the integrity of system software by leveraging a Trusted Platform Module (TPM). Measured Boot uses the TPM to record measurements of all boot software in a tamper-resistant manner. Remote attestation then allows a third party to investigate these TPM-protected measurements at a later point and verify whether only authentic software was loaded.
+Measured Boot ends with loading and running the OS kernel. The Linux Integrity Measurement Architecture (IMA) extends the principle of Measured Boot into the OS, recording all software executions and files read into the TPM. Hence, IMA constitutes an essential part of the Trusted Computing Base (TCB).
+In this paper, we demonstrate that the security guarantees of IMA can be undermined by means of a malicious block device. We validate the viability of the attack with an implementation of a specially-crafted malicious block device in QEMU, which delivers different data depending on whether the block has already been accessed. We analyse and discuss how the attack affects certain use cases of IMA and discuss potential mitigations.},
+author = {Bohling, Felix and Mueller, Tobias and Eckel, Michael and Lindemann, Jens},
+title = {Subverting Linux' Integrity Measurement Architecture},
+year = {2020},
+isbn = {9781450388337},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3407023.3407058},
+doi = {10.1145/3407023.3407058},
+booktitle = {Proceedings of the 15th International Conference on Availability, Reliability and Security},
+articleno = {27},
+numpages = {10},
+keywords = {side-channel attack, system security, integrity measurement architecture, trusted computing},
+location = {Virtual Event, Ireland},
+series = {ARES '20}
+}
+

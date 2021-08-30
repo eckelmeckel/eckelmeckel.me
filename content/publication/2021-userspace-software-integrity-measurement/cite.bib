@@ -1,0 +1,20 @@
+@inproceedings{10.1145/3465481.3470018,
+ abstract = {Todays computing systems are more interconnected and sophisticated than ever before. Especially in healthcare 4.0, services and infrastructures rely on cyber-physical systems (CPSes) and Internet of Things (IoT) devices. This adds to the complexity of these highly connected systems and their manageability. Even worse, the variety of emerging cyber attacks is becoming more severe and sophisticated, making healthcare one of the most important sectors with major security risks. The development of appropriate countermeasures constitutes one of the most complex and difficult challenges in cyber security research. Research areas include, among others, anomaly detection, network security, multi-layer event detection, cyber resiliency, and integrity protection.
+Securing the integrity of software running on a device is a desirable protection goal in the context of systems security. With a Trusted Platform Module (TPM), measured boot, and remote attestation there exist technologies to ensure that a system has booted up correctly and runs only authentic software. The Linux Integrity Measurement Architecture (IMA) extends these principles into the operating system (OS), measuring native binaries before they are loaded. However, interpreted language files, such as Java classes and Python scripts, are not considered executables and are not measured as such. Contemporary OSes ship with many of these and it is vital to consider them as security-critical as native binaries.
+In this paper, we introduce Userspace Software Integrity Measurement (USIM) for the Linux OS. USIM enables interpreters to measure, log, and irrevocably anchor critical events in the TPM. We develop a software library in C which provides TPM-based measurement functionality as well as the USIM service, which provides concurrent access handling to the TPM based event logging. Further, we develop and implement a concept to realize highly frequent event logging on the slow TPM. We integrate this library into the Java Virtual Machine (JVM) to measure Java classes and show that it can be easily integrated into other interpreters. With performance measurements we demonstrate that our contribution is feasible and that overhead is negligible.},
+ author = {Eckel, Michael and Riemann, Tim},
+ title = {Userspace Software Integrity Measurement},
+ year = {2021},
+ isbn = {9781450390514},
+ publisher = {Association for Computing Machinery},
+ address = {New York, NY, USA},
+ url = {https://doi.org/10.1145/3465481.3470018},
+ doi = {10.1145/3465481.3470018},
+booktitle = {The 16th International Conference on Availability, Reliability and Security},
+articleno = {138},
+numpages = {11},
+keywords = {Trusted Computing, Systems security, integrity verification},
+location = {Vienna, Austria},
+series = {ARES 2021}
+}
+
