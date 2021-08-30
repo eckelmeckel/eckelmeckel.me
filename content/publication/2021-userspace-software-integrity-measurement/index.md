@@ -51,12 +51,12 @@ featured: true
 
 url_pdf: https://dl.acm.org/doi/10.1145/3465481.3470018?cid=99659558618
 url_code: https://github.com/timr1994/libusim
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_dataset: 
+url_poster: 
+url_project: 
+url_slides: 
+url_source: 
+url_video: https://www.youtube.com/watch?v=SoVIgDsL4nw
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
