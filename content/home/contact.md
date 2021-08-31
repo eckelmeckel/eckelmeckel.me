@@ -8,6 +8,8 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+autolink = true
+
 ## The following is obsolete?
 # Email form provider
 #   0: Disable email form
@@ -16,15 +18,9 @@ subtitle = ""
 #email_form = 1
 
 content:
-  # Automatically link email and phone?
-  autolink = true
-
   form:
     provider: netlify
-    formspree:
-      id:
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: true
 +++
 
