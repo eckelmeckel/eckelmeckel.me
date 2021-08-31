@@ -8,13 +8,23 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
-# Automatically link email and phone?
-autolink = true
-
+## The following is obsolete?
 # Email form provider
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 1
+#email_form = 1
+
+content:
+  # Automatically link email and phone?
+  autolink = true
+
+  form:
+    provider: netlify
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
 +++
 
